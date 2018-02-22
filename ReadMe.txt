@@ -1,3 +1,5 @@
+$ sphinx-quickstart
+
 Instructions
 
 Troubleshooting
