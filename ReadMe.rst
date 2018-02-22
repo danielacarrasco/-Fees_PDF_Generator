@@ -11,7 +11,7 @@ Indices and tables
 
 * :ref:`genindex`
 * :ref:`modindex`
-* `Troubleshooting`
+* `Troubleshooting`_
 
 genindex
 =======
