@@ -13,5 +13,5 @@ Indices and tables
 * :ref:`modindex`
 * Troubleshooting
 
-geindex
+genindex
 =======
