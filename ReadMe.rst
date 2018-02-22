@@ -9,9 +9,21 @@ Welcome to Fees Template Generator's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
+* `Overview`_
+* `Usage`_
 * `Troubleshooting`_
 
-genindex
-=======
+Overview
+========
+
+This is a python and VBA based code that generates a PDF with the study fees.
+This was made an executable FeesTemplate_main.exe
+
+Usage
+=====
+
+1. Go to the `Publising Requirements folder <A:\Planning and Performance\Student Compliance and Reporting\Publishing Requirements>`_ (restricted access).
+
+Troubleshooting
+=====
+
