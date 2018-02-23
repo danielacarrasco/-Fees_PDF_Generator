@@ -25,10 +25,15 @@ Requirements
 ========
 
 HESA files provided by the Academic Applications Management team, which includes 5 Excel tables of the following type:
+
 - FILE_AU_AND_INT_CO_DATA_TABLE
+
 - FILE_AU_FEES_DATA_TABLE
+
 - FILE_CAP_ASSES_FEES_DATA_TABLE
+
 - FILE_CSP_FEES_DATA_TABLE
+
 - FILE_INT_FEES_DATA_TABLE
 
 Usage
@@ -53,6 +58,6 @@ Warnings
 * The actual program is inside the folder Fees Program. Do not modify anything in there.
 
 
-For more details, please refer to the instructions `here <A:\\Planning and Performance\Student Compliance and Reporting\Publishing Requirements\Documentation>`_ (restricted access)
+For more details, please refer to the instructions `here <A:\\Planning and Performance\Student Compliance and Reporting\Publishing Requirements\Documentation>`_ (restricted access).
 
 *Daniela Carrasco*
