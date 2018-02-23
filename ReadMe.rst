@@ -24,13 +24,14 @@ This was made an executable FeesTemplate_main.exe
 Requirements
 ========
 
-- HESA files provided by the Academic Applications Management team. 
+HESA files provided by the Academic Applications Management team, which includes:
+- 
 
 Usage
 =====
 
 1. Go to the `Publising Requirements folder <A:\Planning and Performance\Student Compliance and Reporting\Publishing Requirements>`_ (restricted access).
-2. Go to the current year's folder and create a new folder with the format yyyy_yyyymmdd (Example: 2018_20180215 for HESA files corresponding to 15-Feb-18).
+2. Go to the current year's folder and create a new folder with the format ``yyyy_yyyymmdd`` (Example: 2018_20180215 for HESA files corresponding to 15-Feb-18).
 3. Copy the HESA files provided by the Fees team into the folder from point 2.
 4. Run the executable FeesTemplate_main.exe and 6 files will be generated in the folder that has been recenlty created. Those are the files that need to be uploaded to the website. 
 
@@ -46,3 +47,6 @@ Warnings
 
 * While the command window is open, do not do anything
 * The actual program is inside the folder Fees Program. Do not modify anything in there.
+
+
+For more details please refer to 
