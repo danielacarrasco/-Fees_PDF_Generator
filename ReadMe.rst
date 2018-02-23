@@ -21,6 +21,11 @@ Overview
 This is a python and VBA based code that generates a PDF with the study fees.
 This was made an executable FeesTemplate_main.exe
 
+Requirements
+========
+
+- HESA files provided by the Academic Applications Management team. 
+
 Usage
 =====
 
